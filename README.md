@@ -1,28 +1,159 @@
-<h1 align="center">Hi 👋, I'm Sithila Konara</h1>
-<h3 align="center">Passionate in Cloud/DevOps and Automation</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sithilakonara&label=Profile%20views&color=0e75b6&style=flat" alt="sithilakonara" /> </p>
+# 👋 Hi, I'm Sithila Konara
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sithilakonara" alt="sithilakonara" /></a> </p>
+### Cloud/DevOps Engineer | Automation Enthusiast | Infrastructure as Code Specialist
 
-- 📫 How to reach me **kmsithila@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sithila-konara/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sithila_92123)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmsithila@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sithila-konara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sithila Konara" height="30" width="40" /></a>
-<a href="https://medium.com/@sithila_92123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sadsadsadsa" height="30" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=sithilakonara&label=Profile%20views&color=0e75b6&style=flat)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-	</a> 
-	<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>	
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 	
-	<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>	
-	<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 	
-	<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 	
-	<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/file-type-terraform-icon-227x256-91ifyour.png" alt="python" width="40" height="40"/> </a> 
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sithilakonara&show_icons=true&locale=en&layout=compact" alt="sithilakonara" /></p>
+</div>
+
+---
+
+## 🚀 About Me
+
+```yaml
+name: Sithila Konara
+role: Cloud/DevOps Engineer
+focus: 
+  - Cloud Infrastructure & Architecture
+  - CI/CD Pipeline Automation
+  - Infrastructure as Code (IaC)
+  - Container Orchestration
+currently_learning: Advanced Kubernetes & GitOps
+fun_fact: "I automate everything, even my coffee machine ☕"
+```
+
+---
+
+## 💼 Professional Highlights
+
+- 🏗️ **Cloud Architecture** - Designing scalable and resilient cloud infrastructure
+- 🔄 **CI/CD Pipelines** - Building automated deployment workflows
+- 📦 **Containerization** - Docker & Kubernetes orchestration
+- 🔧 **Infrastructure as Code** - Terraform expertise for multi-cloud deployments
+- 📊 **Monitoring & Observability** - Implementing comprehensive monitoring solutions
+- 🔐 **Security Best Practices** - DevSecOps implementation
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![PowerShell Core](https://img.shields.io/badge/PowerShell_Core-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+### 🗄️ Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 📊 Monitoring & Logging
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🔐 Security & Compliance
+![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+
+### 🧰 Version Control & Collaboration
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+### 🐧 Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithilakonara&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sithilakonara&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sithilakonara&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sithilakonara&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Coming Soon: Follow me on Medium for DevOps insights](https://medium.com/@sithila_92123)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Current Focus
+
+- 🔭 Building scalable cloud-native applications
+- 🌱 Deepening expertise in Kubernetes and service mesh technologies
+- 👯 Open to collaborate on DevOps automation projects
+- 💬 Happy to discuss Cloud Architecture, IaC, and CI/CD best practices
+- 📫 Reach out: **kmsithila@gmail.com**
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in discussing new opportunities, collaborating on exciting projects, or just chatting about DevOps and cloud technologies. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sithila-konara/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@sithila_92123)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:kmsithila@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+**⭐️ From [sithilakonara](https://github.com/sithilakonara) with ☕ and 💻**
+
+</div>
