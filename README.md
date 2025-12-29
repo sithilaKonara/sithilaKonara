@@ -109,13 +109,12 @@ fun_fact: "I automate everything, even my coffee machine ☕"
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sithilakonara&theme=algolia)
 
-</div>
+</div> -->
 
 ---
 
