@@ -88,15 +88,24 @@ fun_fact: "I automate everything, even my coffee machine ☕"
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sithilakonara&show_icons=true&theme=radical&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithilakonara&layout=compact&theme=radical&hide_border=true"
+    height="160"
+  />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithilakonara&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=sithilakonara&theme=radical&hide_border=true"
+    height="160"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sithilakonara&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sithilakonara&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
