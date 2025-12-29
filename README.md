@@ -86,9 +86,9 @@ fun_fact: "I automate everything, even my coffee machine ☕"
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=sithilakonara&show_icons=true&theme=radical&hide_border=true"
     height="160"
@@ -104,7 +104,7 @@ fun_fact: "I automate everything, even my coffee machine ☕"
     src="https://streak-stats.demolab.com?user=sithilakonara&theme=radical&hide_border=true"
     height="160"
   />
-</p>
+</p> -->
 
 
 ---
@@ -113,7 +113,7 @@ fun_fact: "I automate everything, even my coffee machine ☕"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sithilakonara)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sithilakonara&theme=algolia)
 
 </div>
 
