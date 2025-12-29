@@ -113,7 +113,7 @@ fun_fact: "I automate everything, even my coffee machine ☕"
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sithilakonara&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sithilakonara)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
